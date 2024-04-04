@@ -1,0 +1,11 @@
+# Node.js
+node_modules
+
+# Compiled output
+output.css
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

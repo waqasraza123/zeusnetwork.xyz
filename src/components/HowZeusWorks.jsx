@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { motion } from 'framer-motion';
 import { useInView } from "react-intersection-observer";
 import StepContent from './StepContent';
 import '../assets/css/howZeusWorks.css';
+import HeroImage from '../assets/images/hero_bg_image.webp';
+import { ScatterGraphy } from 'react-scatter-graphy';
+import { motion } from 'framer-motion';
+import EarthVideo from '../assets/videos/earth_video.mp4';
 
 function HowZeusWorks() {
 
@@ -47,9 +50,10 @@ function HowZeusWorks() {
                         />
                         </div>
                     </div>
+                    {/* row 1 div 2 */}
                     <div className="w-full md:w-1/2 flex items-center justify-center">
                         <div className="p-6 rounded-lg shadow-lg mx-4 mb-4">
-                            <StepContent />
+                            {/* content here */}
                         </div>
                     </div>
                 </div>
@@ -69,9 +73,7 @@ function HowZeusWorks() {
                         </div>
                     </div>
                     <div className="w-full md:w-1/2 flex items-center justify-center">
-                        <div className="p-6 rounded-lg shadow-lg mx-4 mb-4">
-                            <StepContent />
-                        </div>
+                        {/* content here */}
                     </div>
                 </div>
             </div>

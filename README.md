@@ -13,4 +13,5 @@ A prominent visually appealing landing page for #crypto related services/website
 - JavaScript
 - For Gradient Colors CSS https://www.eggradients.com/
 - Animations https://www.npmjs.com/package/framer-motion 
+- react-scatter-graphy
 - react-intersection-observer

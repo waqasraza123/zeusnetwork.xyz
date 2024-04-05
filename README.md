@@ -6,8 +6,9 @@ Features
 
 A prominent visually appealing landing page for #crypto related services/websites.
 
-# Tech Stack
+# Tech Stack & Misc libs:
 (will keep updating until the finish line)
 - Tailwind 
 - React
 - JavaScript
+- @heroicons/react

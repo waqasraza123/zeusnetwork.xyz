@@ -12,10 +12,10 @@ function Header() {
             <a href="#investors" className="mr-4 text-primary">Backers</a>
             <a href="#why" className="mr-4 text-primary">Why Zeus</a>
             <a href="#ecosystem" className="mr-4 text-primary">Ecosystem</a>
-            <a href="https://docs.zeusnetwork.xyz" target="_blank" className="text-primary">Docs</a>
+            <a href="#" className="text-primary">Docs</a>
           </nav>
         </div>
-        <a target='_blank' href="https://apollo.zeusnetwork.xyz" className="flex items-center">
+        <a target='_blank' href="#" className="flex items-center">
           <div className="rounded-full border-gradient-color border-2 border-linear-gradient-color animate-pulse text-sm mr-2 px-4 py-1 text-primary">
             Beta
           </div>

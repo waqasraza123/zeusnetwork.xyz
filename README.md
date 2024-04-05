@@ -9,15 +9,5 @@ A prominent visually appealing landing page for #crypto related services/website
 # Tech Stack
 (will keep updating until the finish line)
 - Tailwind 
-
-# Commands
-
-```
-Run Tailwind CSS build command with the --watch flag:
-
-npx tailwindcss build styles.css -o output.css --watch
-```
-
-# External libs
-
-npm install @11ty/eleventy --save-dev
+- React
+- JavaScript

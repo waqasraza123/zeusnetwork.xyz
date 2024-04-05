@@ -1,11 +1,12 @@
 import React from 'react';
+import logo from '../assets/images/zeus-logo-primary.svg';
 
 function Header() {
   return (
     <header className="bg-gray-800 text-white py-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
-          <img src="/branding/logo-primary.svg" alt="Primary Zeus Logo" className="h-8 mr-4" />
+          <img src={logo} alt="Primary Zeus Logo" className="h-8 mr-4" />
           <nav>
             <a href="#network" className="mr-4">How Zeus Works</a>
             <a href="#investors" className="mr-4">Backers</a>

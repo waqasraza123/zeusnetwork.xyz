@@ -15,3 +15,8 @@ A prominent visually appealing landing page for #crypto related services/website
 - Animations https://www.npmjs.com/package/framer-motion 
 - react-scatter-graphy
 - react-intersection-observer
+
+
+# Screenshots
+![alt text](image.png)
+![alt text](image-1.png)

@@ -3,7 +3,7 @@ import logo from '../assets/images/zeus-logo-primary.svg';
 
 function Header() {
   return (
-    <header className="bg-gray-800 text-white py-4">
+    <header className="text-primary py-4 header-navbar">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
           <img src={logo} alt="Primary Zeus Logo" className="h-8 mr-4" />

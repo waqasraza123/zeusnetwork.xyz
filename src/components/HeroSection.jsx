@@ -7,7 +7,7 @@ function HeroSection() {
             <div className="text-center z-50">
                 <h1 className="text-9xl text-primary font-bold mb-4">Bitcoin to Solana <br />Made Seamless</h1>
                 <p className="text-primary text-lg mb-6">Cross-Chain Communication Layer Built on SVM</p>
-                <button className="text-gradient-color px-6 py-3 rounded-full shadow-lg transition-colors flex items-center mx-auto">
+                <button className="text-gradient-color px-6 py-3 shadow-lg transition-colors flex items-center mx-auto border-gradient-color border-2 border-linear-gradient-color animate-pulse">
                     <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <defs>
                             <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">

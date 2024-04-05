@@ -6,16 +6,16 @@ function Header() {
     <header className="text-primary py-4 header-navbar">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
-          <img src={logo} alt="Primary Zeus Logo" className="h-8 mr-4" />
+          <a href='/'><img src={logo} alt="Primary Zeus Logo" className="h-8 mr-4" /></a>
           <nav>
             <a href="#network" className="mr-4 text-primary">How Zeus Works</a>
             <a href="#investors" className="mr-4 text-primary">Backers</a>
             <a href="#why" className="mr-4 text-primary">Why Zeus</a>
             <a href="#ecosystem" className="mr-4 text-primary">Ecosystem</a>
-            <a href="https://docs.zeusnetwork.xyz text-primary">Docs</a>
+            <a href="https://docs.zeusnetwork.xyz" target="_blank" className="text-primary">Docs</a>
           </nav>
         </div>
-        <a href="https://apollo.zeusnetwork.xyz" className="flex items-center">
+        <a target='_blank' href="https://apollo.zeusnetwork.xyz" className="flex items-center">
           <div className="rounded-full border-gradient-color border-2 border-linear-gradient-color animate-pulse text-sm mr-2 px-4 py-1 text-primary">
             Beta
           </div>

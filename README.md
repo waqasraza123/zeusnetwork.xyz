@@ -12,3 +12,4 @@ A prominent visually appealing landing page for #crypto related services/website
 - React
 - JavaScript
 - @heroicons/react
+- For Gradient Colors CSS https://www.eggradients.com/

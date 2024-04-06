@@ -1,6 +1,7 @@
 import Header from './components/Header';
 import HeroSection from './components/HeroSection';
 import HowZeusWorks from './components/HowZeusWorks';
+import InvestorsSection from './components/Investors';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <Header />
         <HeroSection />
         <HowZeusWorks />
+        <InvestorsSection />
       </div>
     </div>
   );

@@ -5,6 +5,7 @@ This website is inspired by the design of the $ZEUS token website. The $ZEUS web
 Features
 
 A prominent visually appealing landing page for #crypto related services/websites.
+- FlexBox Layout
 
 # Tech Stack & Misc libs:
 (will keep updating until the finish line)

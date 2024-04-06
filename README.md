@@ -19,7 +19,7 @@ A prominent visually appealing landing page for #crypto related services/website
 
 
 # How it Looks
-GIF
+GIF (will take a while to load 28mb)
 ![Demo 1 of Website](demo_content_git/demo2.gif)
 
 Photos

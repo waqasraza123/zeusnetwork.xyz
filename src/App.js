@@ -1,3 +1,4 @@
+import Footer from './components/Footer';
 import Header from './components/Header';
 import HeroSection from './components/HeroSection';
 import HowZeusWorks from './components/HowZeusWorks';
@@ -11,6 +12,7 @@ function App() {
         <HeroSection />
         <HowZeusWorks />
         <InvestorsSection />
+        <Footer />
       </div>
     </div>
   );

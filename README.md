@@ -18,6 +18,5 @@ A prominent visually appealing landing page for #crypto related services/website
 - react-intersection-observer
 
 
-# Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
+# How it Looks
+![Demo 1 of Website](demo_videos/demo1.gif)

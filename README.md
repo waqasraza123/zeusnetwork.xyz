@@ -19,4 +19,8 @@ A prominent visually appealing landing page for #crypto related services/website
 
 
 # How it Looks
-![Demo 1 of Website](demo_videos/demo1.gif)
+![Demo 1 of Website](demo_content_git/demo1.gif)
+
+![alt text](<demo_content_git/Screen Shot 2024-04-06 at 6.59.46 AM.png>) 
+![alt text](<demo_content_git/Screen Shot 2024-04-06 at 6.59.58 AM.png>) 
+![alt text](<demo_content_git/Screen Shot 2024-04-06 at 7.00.06 AM.png>)
